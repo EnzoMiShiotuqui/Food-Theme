@@ -20,4 +20,4 @@
 
 ## ScreenShot
 
-![screenshot](Fooda.png)
+![screenshot](fooda.png)
